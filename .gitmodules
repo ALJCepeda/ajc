@@ -1,0 +1,6 @@
+[submodule "repos/api"]
+	path = repos/api
+	url = git@github.com:ALJCepeda/api.git
+[submodule "repos/browser"]
+	path = repos/browser
+	url = git@github.com:ALJCepeda/browser.git
